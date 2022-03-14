@@ -11,7 +11,7 @@ public class AccessSpecifiers {
 
 	void defaultMethod() {
 		System.out.println("this is default method");
-	}to pull 
+	} //to pull 
 
 	private void privateMethod() {
 		System.out.println("this is private method");

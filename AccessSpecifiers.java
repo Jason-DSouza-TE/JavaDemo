@@ -3,7 +3,7 @@ package com.te.access.common;
 public class AccessSpecifiers {
 	public void publicMethod() {
 		System.out.println("this is public method");
-	}
+	} //qwertyui
 
 	protected void protectedMethod() {
 		System.out.println("this is protected method");
